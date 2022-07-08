@@ -1,0 +1,15 @@
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\bin\Debug\net6.0\max moadel mashrot.exe
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\bin\Debug\net6.0\max moadel mashrot.deps.json
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\bin\Debug\net6.0\max moadel mashrot.runtimeconfig.json
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\bin\Debug\net6.0\max moadel mashrot.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\bin\Debug\net6.0\max moadel mashrot.pdb
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\obj\Debug\net6.0\max moadel mashrot.csproj.AssemblyReference.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\obj\Debug\net6.0\max moadel mashrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\obj\Debug\net6.0\max moadel mashrot.AssemblyInfoInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\obj\Debug\net6.0\max moadel mashrot.AssemblyInfo.cs
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\obj\Debug\net6.0\max moadel mashrot.csproj.CoreCompileInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\obj\Debug\net6.0\max moadel mashrot.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\obj\Debug\net6.0\refint\max moadel mashrot.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\obj\Debug\net6.0\max moadel mashrot.pdb
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\obj\Debug\net6.0\max moadel mashrot.genruntimeconfig.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\4\max moadel mashrot\obj\Debug\net6.0\ref\max moadel mashrot.dll
